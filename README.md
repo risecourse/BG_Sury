@@ -51,3 +51,5 @@ regime plot and slowplot occur simultaneously in two windows, pause() can
 be added if it too fast. The Slowplot function has some additional plotting 
 options which are commented.They can be used if needed.
   
+## Sample section
+This is my part of the readme file to write.
